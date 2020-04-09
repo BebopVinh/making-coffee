@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 :root {
   --bg: #261C14;
   --meta: #888;
@@ -53,6 +55,10 @@ html {
 #slide ul {
     text-align: left;
     margin-left: 32px;
+}
+
+#slide h1 {
+  font-family: 'Pacifico', cursive;
 }
 
 a {
